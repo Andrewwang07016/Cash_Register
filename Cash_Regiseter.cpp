@@ -1,3 +1,14 @@
+// Declares and initializes variables
+int productID;
+int quantity;
+double price;
+double taxRate;
+double subtotal  = 0.0;
+double salesTax  = 0.0;
+double totalSale = 0.0;
+double allSale   = 0.0;
+double cashDrawer= 0.0;
+int anotherSale;
 
 // Creates a do loop for repeating sales
 
